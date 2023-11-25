@@ -7,8 +7,8 @@ import axios from 'axios'
 
 
 global.owner = [
-  ['917605902011', 'GURU', true],
-  ['6281255369012', 'Ash', true], 
+  ['254758589539', 'Anonymous', true],
+  ['254790091750', 'Flamezz', true], 
   [''] 
 ] //Number of owners
 
@@ -50,9 +50,9 @@ global.APIKeys = { // APIKey Here
 }
 
 // Sticker WM
-global.botname = 'ᴛʜᴇ ɢᴜʀᴜ-ʙᴏᴛ'
+global.botname = '︻╦̵̵͇̿̿̿̿╤──💥ᡃ⃝𝕱𝖑𝖆𝖒𝖊𝖟𝖟👾-ʙᴏᴛ'
 global.premium = 'true'
-global.packname = 'GURU┃ᴮᴼᵀ' 
+global.packname = 'Flamezz┃ᴮᴼᵀ' 
 global.author = '@Asliguru' 
 global.menuvid = 'https://telegra.ph/file/085c4b1068f0f4f8db970.mp4'
 global.igfg = '▢ Follow on Instagram\nhttps://www.instagram.com/asli_guru69\n' 
